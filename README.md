@@ -14,7 +14,7 @@ This system improves **accuracy**, **accessibility**, and **reduces human error*
 
 ## 🔧 Technologies Used
 
-- **Backend:** Python (optional: Flask/Lambda)
+- **Backend:** Python
 - **Database:** AWS RDS (MySQL)
 - **Cloud Services:**
   - AWS RDS – for storing attendance records
